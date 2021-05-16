@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "Técnico en Análisis y Desarrollo de Sistemas de Información",
+        "institute": "Servicio Nacional de Aprendizaje - SENA",
+        "place": "Colombia",
+        "since": "2019",
+        "until": "En Curso",
+        "note": "Culminada etapa lectiva"
+    },
+    {
+        "id": 2,
+        "title": "Bachiller Académico",
+        "institute": "ICFES",
+        "place": "Colombia",
+        "since": "2016",
+        "until": "2016"
+    },
+    {
+        "id": 3,
+        "title": "Profesional en Comunicación Social",
+        "institute": "Universidad Bolivariana de Venezuela",
+        "place": "Venezuela",
+        "since": "2008",
+        "until": "2013"
+    },
+    {
+        "id": 4,
+        "title": "Tecnólogo en Producción de Medios",
+        "institute": "Universidad Bolivariana de Venezuela",
+        "place": "Venezuela",
+        "since": "2008",
+        "until": "2011"
+    },
+    {
+        "id": 5,
+        "title": "Bachiller en Ciencias",
+        "institute": "Colegio Ciudad Fajardo de Guatire",
+        "place": "Venezuela",
+        "since": "1990",
+        "until": "1995"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "business": "Micropoint, S. A. S.",
+        "position": "Analista de soporte en sitio",
+        "place": "Medellín - Antioquia",
+        "since": "18/09/2018",
+        "until": "Actualmente",
+        "functions": [
+            "Servicio Técnico a Impresoras Láser, Computadores de escritorio y portátiles.",
+            "Atención al cliente.",
+            "Soporte en la implementación del Centro de Servicios Digitales de Sura.",
+            "Mesa de ayuda y soporte en sitio en Grupo Uribe",
+            "Soporte Totto Antioquia"
+        ]
+    },
+    {
+        "id": 2,
+        "business": "Alianza Gráfica, S. A. S.",
+        "position": " Diseñador Gráfico - Soporte Técnico Konica Minolta",
+        "lugar": "Medellín - Antioquia",
+        "since": "01/02/2017",
+        "until": "until: 23/12/2017",
+        "functions": [
+            "Preparación y montaje de diseños para el proceso de impresión digital.",
+            "Manejor de Adobe Illustrator, Adobe InDesign, Adobe Acrobat, Adobe Photoshop, Enfocus PitStop Pro, Kodak Preps 5.3.",
+            "Operador de equipos de impresión Konica Minolta Bizhub Press C6000 y Konica Minolta Bizhub Press C1085.",
+            "Operador de Controlador Konika Job Centro y Fiery Command Workstation.",
+            "Mantenimiento preventivo y correctivo de impresoras Konica Minolta Bizhub Press C6000 y Konica Minolta Bizhub Press C1085."
+        ]
+    },
+    {
+        "id": 3,
+        "business": "Gloditec, S. A. S.",
+        "position": "Técnico en Reparación y Mantenimiento de Impresoras",
+        "lugar": "Envigado - Antioquia",
+        "since": "01/03/2016",
+        "until": "31/01/2017",
+        "functions": [
+            "Reparación y Mantenimiento de Impresoras Ricoh, Konica Minolta, Sindoh.",
+            "Instalación de impresoras en redes businessriales y corporativas.",
+            "Configuración de impresoras multifuncionales en equipos de computación."
+        ]
+    },
+    {
+        "id": 4,
+        "business": "Inversiones Propc Computer 2011, C. A.",
+        "position": "Director de Soporte técnico",
+        "lugar": "Caracas - Venezuela",
+        "since": "2014",
+        "until": "2016",
+        "functions": [
+            "Coordinación en la implementación, ensamblaje, instalación y puesta en marcha de equipos de computación adquiridos por nuestros clientes corporativos.",
+            "Compra de insumos, periféricos y equipos de computación."
+        ]
+    },
+    {
+        "id": 5,
+        "business": "ATB Constructores, C. A.",
+        "position": "Coordinador de Sistemas",
+        "lugar": "Caracas - Venezuela",
+        "since": "2011",
+        "until": "2014",
+        "functions": [
+            "Administración de redes alámbricas e inalámbricas.",
+            "Administración de BladeCenter.",
+            "Administración de servidores Linux, Windows Server 2008, Windows Server 2012 (Active Directory, DHCP Server, Print Server, DNS).",
+            "Administración de SQL Server 2008R2.",
+            "Administración básica de MySQL (Respaldos).",
+            "Sincronización de bases de datos.",
+            "Administración de impresoras.",
+            "Soporte técnico de equipos de computación e impresoras.",
+            "Compras de consumibles y equipos.",
+            "Administración de enlaces y conexiones con sucursales mediante VPN y cliente VPN.",
+            "Compra y administración de dominios.",
+            "Administración de servicios de correos electrónicos.",
+            "Administración de Firewall Fortinet.",
+            "Encargado de sistemas en implementación de SAP.",
+            "Administración del sistema captahuellas Anviz.",
+            "Administración de sistema captahuellas bajo el sistema Mantia.",
+            "Administración de sistema AdaptaPro.",
+            "Administración de sistema Lattice.",
+            "Administración de servicios externos de internet. (Cámaras, SAP Router, Telefonía IP).",
+            "Administrador de telefonía IP Astetix.",
+            "Diseño e impresión de carnets identificativos.",
+            "Otras relacionadas al área de computación, sistemas y comunicaciones."
+        ]
+    },
+    {
+        "id": 6,
+        "business": "Ávila TV",
+        "position": "Practicante - Asistente de Producción",
+        "lugar": "Caracas - Venezuela",
+        "since": "2011",
+        "until": "2011",
+        "functions": []
+    },
+    {
+        "id": 7,
+        "business": "Radio Electro Telvis, C. A.",
+        "position": "Asistente de Sistemas",
+        "lugar": "Caracas - Venezuela",
+        "since": "2002",
+        "until": "2009",
+        "functions": []
+    },
+    {
+        "id": 8,
+        "business": "Tecnocorsa, C. A.",
+        "position": "Técnico en Informática y Sistemas",
+        "lugar": "Caracas - Venezuela",
+        "since": "1996",
+        "until": "2001",
+        "functions": []
+    },
+    {
+        "id": 9,
+        "business": "Hydroclima, S. A.",
+        "position": "Transcriptor de Datos y Asistente de Contabilidad",
+        "lugar": "Caracas - Venezuela",
+        "since": "1997",
+        "until": "1997",
+        "functions": []
+    }
+]

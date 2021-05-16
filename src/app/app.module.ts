@@ -17,6 +17,7 @@ import { StudiesComponent } from './components/studies/studies.component';
 import { TrainingComponent } from './components/training/training.component';
 import { BriefcaseComponent } from './components/briefcase/briefcase.component';
 import { ContactComponent } from './components/contact/contact.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { ContactComponent } from './components/contact/contact.component';
     StudiesComponent,
     TrainingComponent,
     BriefcaseComponent,
-    ContactComponent
+    ContactComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

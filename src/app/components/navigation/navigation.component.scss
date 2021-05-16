@@ -15,3 +15,13 @@
   top: 0;
   z-index: 1;
 }
+
+.titleHeader {
+  margin-left: 1rem;
+}
+
+@media (max-width: 767px) {
+  .titleHeader {
+    display: none;
+  }
+}

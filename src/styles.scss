@@ -1,4 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&display=swap');
 
 html, body { 
     height: 100%;
@@ -7,7 +7,14 @@ html, body {
 }
 
 body {  
-    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-family: 'Roboto', sans-serif;
+ }
+
+  /**********
+ *** FONTS
+ **********/
+ h1, h2 {
+     font-weight: 100 !important;
  }
 
 
@@ -18,7 +25,7 @@ body {
      padding: 1rem;
  }
 
- .titlePage {
+.titlePage {
      display: block;
      text-align: center;
  }

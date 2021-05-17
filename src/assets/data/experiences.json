@@ -18,7 +18,7 @@
         "id": 2,
         "business": "Alianza Gráfica, S. A. S.",
         "position": " Diseñador Gráfico - Soporte Técnico Konica Minolta",
-        "lugar": "Medellín - Antioquia",
+        "place": "Medellín - Antioquia",
         "since": "01/02/2017",
         "until": "until: 23/12/2017",
         "functions": [
@@ -33,7 +33,7 @@
         "id": 3,
         "business": "Gloditec, S. A. S.",
         "position": "Técnico en Reparación y Mantenimiento de Impresoras",
-        "lugar": "Envigado - Antioquia",
+        "place": "Envigado - Antioquia",
         "since": "01/03/2016",
         "until": "31/01/2017",
         "functions": [
@@ -46,7 +46,7 @@
         "id": 4,
         "business": "Inversiones Propc Computer 2011, C. A.",
         "position": "Director de Soporte técnico",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "2014",
         "until": "2016",
         "functions": [
@@ -58,7 +58,7 @@
         "id": 5,
         "business": "ATB Constructores, C. A.",
         "position": "Coordinador de Sistemas",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "2011",
         "until": "2014",
         "functions": [
@@ -90,36 +90,32 @@
         "id": 6,
         "business": "Ávila TV",
         "position": "Practicante - Asistente de Producción",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "2011",
-        "until": "2011",
-        "functions": []
+        "until": "2011"
     },
     {
         "id": 7,
         "business": "Radio Electro Telvis, C. A.",
         "position": "Asistente de Sistemas",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "2002",
-        "until": "2009",
-        "functions": []
+        "until": "2009"
     },
     {
         "id": 8,
         "business": "Tecnocorsa, C. A.",
         "position": "Técnico en Informática y Sistemas",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "1996",
-        "until": "2001",
-        "functions": []
+        "until": "2001"
     },
     {
         "id": 9,
         "business": "Hydroclima, S. A.",
         "position": "Transcriptor de Datos y Asistente de Contabilidad",
-        "lugar": "Caracas - Venezuela",
+        "place": "Caracas - Venezuela",
         "since": "1997",
-        "until": "1997",
-        "functions": []
+        "until": "1997"
     }
 ]

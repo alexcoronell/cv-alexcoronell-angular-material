@@ -1,5 +1,19 @@
 <div class="content">
     <div class="titlePage">
-        <h1>Experiencia Laboral</h1>
+        <h1>{{titlePage}}</h1>
     </div>
+
+    <mat-tab-group>
+
+        <mat-tab *ngFor="let item of experienceData" label={{item.business}} >
+            <h4 class="titleTabs">{{item.position}}</h4>
+            <p class="itemTabs">{{item.place}}</p>
+            <p class="itemTabs">Desde: {{item.since}} - Hasta {{item.until}}</p>
+            <ul *ngIf="item.functions">
+                <h5>Funciones</h5>
+                <li *ngFor="let item of item.functions">{{item}}</li>
+            </ul>
+        </mat-tab>
+      </mat-tab-group>
+      
 </div>

@@ -18,14 +18,38 @@ body {
  }
 
 
+
  /**********
  *** LAYOUTS
  **********/
  .content {
      padding: 1rem;
+     margin-bottom: 50px;
  }
 
 .titlePage {
      display: block;
      text-align: center;
+     h1 {
+        font-size: 2rem !important;
+     }
+ }
+
+   /**********
+ *** MAT-TABS
+ **********/
+ .mat-tab-body-content {
+     padding: 1rem;
+     .titleTabs {
+        font-weight: 700;
+        font-size: 1.1rem;
+     }
+     ul {
+         padding-left: 1rem;
+         
+         h5 {
+             font-size: 1rem;
+             margin-top: 1.2rem;
+         }
+     }
  }

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import data from  '../../../assets/data/studies.json';
 
 @Component({
   selector: 'app-studies',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StudiesComponent implements OnInit {
 
+  titlePage:string = "Estudios";
+  studiesData:any = data;
+
   constructor() { }
 
   ngOnInit(): void {
+    console.log(this.studiesData);
   }
 
 }

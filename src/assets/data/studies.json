@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Técnico en Análisis y Desarrollo de Sistemas de Información",
+        "title": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+        "shortTitle": "Tecnólogo",
         "institute": "Servicio Nacional de Aprendizaje - SENA",
         "place": "Colombia",
         "since": "2019",
@@ -10,7 +11,8 @@
     },
     {
         "id": 2,
-        "title": "Bachiller Académico",
+        "title": "Bachiller Acacémico",
+        "shortTitle": "Bachiller",
         "institute": "ICFES",
         "place": "Colombia",
         "since": "2016",
@@ -19,6 +21,7 @@
     {
         "id": 3,
         "title": "Profesional en Comunicación Social",
+        "shortTitle": "Licenciado",
         "institute": "Universidad Bolivariana de Venezuela",
         "place": "Venezuela",
         "since": "2008",
@@ -27,6 +30,7 @@
     {
         "id": 4,
         "title": "Tecnólogo en Producción de Medios",
+        "shortTitle": "Tecnólogo",
         "institute": "Universidad Bolivariana de Venezuela",
         "place": "Venezuela",
         "since": "2008",
@@ -35,6 +39,7 @@
     {
         "id": 5,
         "title": "Bachiller en Ciencias",
+        "shortTitle": "Bachiller",
         "institute": "Colegio Ciudad Fajardo de Guatire",
         "place": "Venezuela",
         "since": "1990",

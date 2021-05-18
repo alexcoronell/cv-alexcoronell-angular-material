@@ -1,0 +1,1088 @@
+[
+    {
+        "index": 1,
+        "titleTraining": "Operador de Micros",
+        "titleTraining2": "Operador de Micros MS-DOS 5.0 - WorStar – Lotus 123 – DBase III Plus",
+        "institute": "Academia Villa Heroica",
+        "logoIntitute": "no-image.png",
+        "end": "1993",
+        "image": "no-image.png"
+    },
+    {
+        "index": 2,
+        "titleTraining": "Técnico en Informática",
+        "titleTraining2": "Técnico en Informática (Windows Server, Office, Redes, Programación VisualBasic",
+        "institute": "Siefer Asesores",
+        "logoIntitute": "no-image.png",
+        "end": "2004",
+        "image": "no-image.png"
+    },
+    {
+        "index": 3,
+        "titleTraining": "Soporte Aba (Internet Banda Ancha)",
+        "titleTraining2": "Soporte Aba (Internet Banda Ancha)",
+        "institute": "Atento – CANTV",
+        "logoIntitute": "no-image.png",
+        "end": "2010",
+        "image": "no-image.png"
+    },
+    {
+        "index": 4,
+        "titleTraining": "Introducción al Desarrollo Web Parte 1",
+        "titleTraining2": "Curso de Introducción al Desarrollo Web (Parte 1/2) – Google Actívate",
+        "institute": "Instituto de Economía Internacional – Universidad de Alicante",
+        "logoIntitute": "google.png",
+        "end": "2017",
+        "image": "google-introducciondesarrollowebprimeraparte.jpeg"
+    },
+    {
+        "index": 5,
+        "titleTraining": "Introducción al Desarrollo Web Parte 2",
+        "titleTraining2": "Curso de Introducción al Desarrollo Web (Parte 2/2) – Google Actívate",
+        "institute": "Instituto de Economía Internacional – Universidad de Alicante",
+        "logoIntitute": "google.png",
+        "end": "2017",
+        "image": "google-introducciondesarrollowebsegundaparte.jpeg"
+    },
+    {
+        "index": 6,
+        "titleTraining": "Curso de Habilidades de Marketing Personal",
+        "titleTraining2": "Curso de Habilidades de Marketing Personal",
+        "institute": "Confenalco Antioquia",
+        "logoIntitute": "confenalco.png",
+        "end": "2018",
+        "image": "confenalco-cursohabilidadesmarketingpersonal.jpeg"
+    },
+    {
+        "index": 7,
+        "titleTraining": "Técnico en Informática",
+        "titleTraining2": "Técnico en Informática",
+        "institute": "Fundación Carlos Slim",
+        "logoIntitute": "carlosslim.png",
+        "end": "2018",
+        "image": "fundacioncarlosslim-tecnicoeninformatica.jpeg"
+    },
+    {
+        "index": 8,
+        "titleTraining": "Curso de Programación Básica",
+        "titleTraining2": "Curso de Programación Básica",
+        "institute": "Platzi – Apps.co",
+        "logoIntitute": "platzi.png",
+        "end": "2018",
+        "image": "platzi-cursoprogramacionbasica.jpeg"
+    },
+    {
+        "index": 9,
+        "titleTraining": "Técnico en Seguridad Informática",
+        "titleTraining2": "Técnico en Seguridad Informática (Análisis de Riesgos)",
+        "institute": "Fundación Carlos Slim",
+        "logoIntitute": "carlosslim.png",
+        "end": "2019",
+        "image": "fundacioncarlosslim-tecnicoseguridadinformatica.jpeg"
+    },
+    {
+        "index": 10,
+        "titleTraining": "Introducción a la Seguridad Informática",
+        "titleTraining2": "Introducción a la Seguridad Informática",
+        "institute": "Backtrack Academy",
+        "logoIntitute": "backtrackacademy.png",
+        "end": "2019",
+        "image": "backtrackacademy-introduccionseguridadinformatica.jpeg"
+    },
+    {
+        "index": 11,
+        "titleTraining": "Gestión de la Seguridad Informática",
+        "titleTraining2": "Gestión de la Seguridad Informática",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-gestionseguridadinformatica.jpeg"
+    },
+    {
+        "index": 12,
+        "titleTraining": "Informática Básica",
+        "titleTraining2": "Informática Básica",
+        "institute": "Instituto Universitario Digital de Antioquia",
+        "logoIntitute": "iuda.png",
+        "end": "2019",
+        "image": "iudigitalantioquia-informaticabasica.jpeg"
+    },
+    {
+        "index": 13,
+        "titleTraining": "Bases de Datos – Generalidades y Sistemas de Gestión",
+        "titleTraining2": "Bases de Datos – Generalidades y Sistemas de Gestión",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-basesdatos-generalidadessistemasgestion.jpeg"
+    },
+    {
+        "index": 14,
+        "titleTraining": "Metodología Programación de Sistemas Informáticos",
+        "titleTraining2": "Metodología Programación de Sistemas Informáticos",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-metodologiaprogramacionsistemasinformaticos.jpeg"
+    },{
+        "index": 15,
+        "titleTraining": "Curso profesional de Git y GitHub",
+        "titleTraining2": "Curso profesional de Git y GitHub",
+        "institute": "Platzi – Apps.co",
+        "logoIntitute": "platzi.png",
+        "end": "2019",
+        "image": "platzi-cursoprofesionalgitgithub.jpeg"
+    },{
+        "index": 16,
+        "titleTraining": "Desarrollo Web con PHP",
+        "titleTraining2": "Desarrollo Web con PHP",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-desarrollowebconphp.jpeg"
+    },
+    {
+        "index": 17,
+        "titleTraining": "Conceptualización del Lenguaje de Programación C++",
+        "titleTraining2": "Conceptualización del Lenguaje de Programación C++",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-conceptualizacionlenguajeprogramaciónCplusplus.jpeg"
+    },
+    {
+        "index": 18,
+        "titleTraining": "Lenguaje de Programación C++ (Nivel I)",
+        "titleTraining2": "Estructura del Lenguaje de Programación C++ (Nivel I)",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-estructuralenguajeprogramacioncplusplusnivel1.jpeg"
+    },
+    {
+        "index": 19,
+        "titleTraining": "Introducción a Git & Github",
+        "titleTraining2": "Introducción a Git & Github",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2019",
+        "image": "udemy-introducciongitygithub.jpeg"
+    },
+    {
+        "index": 20,
+        "titleTraining": "Lenguaje de Programación C++ (Nivel II)",
+        "titleTraining2": "Módulos, Estructura de Almacenamiento y POO utilizando el Lenguaje de Programación C++ (Nivel II)",
+        "institute": "SENA",
+        "logoIntitute": "sena.png",
+        "end": "2019",
+        "image": "sena-modulosalmacenamientopooencplusplusnovel2.jpeg"
+    },
+    {
+        "index": 21,
+        "titleTraining": "Introducción a los Frameworks de desarrollo para PHP",
+        "titleTraining2": "Introducción teórica a los Frameworks de desarrollo para PHP",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2019",
+        "image": "udemy-introduccionteoricaalosframeworksdedesarrolloparaphp.jpeg"
+    },
+    {
+        "index": 22,
+        "titleTraining": "Master en Javascript (JQuery, Angular 8, NodeJS)",
+        "titleTraining2": "Master en Javascript (JQuery, Angular 8, NodeJS)",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2019",
+        "image": "udemy-masterjavascript.jpeg"
+    },
+    {
+        "index": 23,
+        "titleTraining": "Curador de Datos",
+        "titleTraining2": "Curador de Datos",
+        "institute": "Fundación Carlos Slim",
+        "logoIntitute": "carlosslim.png",
+        "end": "2019",
+        "image": "fundacioncarlosslim-curadordatos.jpeg"
+    },
+    {
+        "index": 24,
+        "titleTraining": "Finder",
+        "titleTraining2": "Finder",
+        "institute": "Fundación Carlos Slim",
+        "logoIntitute": "carlosslim.png",
+        "end": "2019",
+        "image": "fundacioncarlosslim-finder.jpeg"
+    },
+    {
+        "index": 25,
+        "titleTraining": "CSS Básico + Flexbox + 3 proyectos",
+        "titleTraining2": "CSS Básico + Flexbox + 3 proyectos",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-cssbasicoflexbox3proyectos.jpeg"
+    },
+    {
+        "index": 26,
+        "titleTraining": "Animaciones y efectos interactivos con CSS3",
+        "titleTraining2": "Aprender a crear animaciones y efectos interactivos con CSS3",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-aprenderacrearanimacionesyefectosinteractivosconcss3.jpeg"
+    },
+    {
+        "index": 27,
+        "titleTraining": "Introducción a la Programación con Javascript",
+        "titleTraining2": "Introducción a la Programación con Javascript",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-introduccionprogramaciónjavascript.jpeg"
+    },
+    {
+        "index": 28,
+        "titleTraining": "JavaScript ES6",
+        "titleTraining2": "JavaScript ES6",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-javascriptes6.jpeg"
+    },
+    {
+        "index": 29,
+        "titleTraining": "VueJs - Introducción desde cero",
+        "titleTraining2": "VueJs - Curso de Introducción desde cero y primeros pasos",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-vuejs-introduccion.jpeg"
+    },
+    {
+        "index": 30,
+        "titleTraining": "Angular 8 - Introducción desde cero",
+        "titleTraining2": "Angular 8 - Curso de Introducción desde cero y primeros pasos",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-angular8-introduccion.jpeg"
+    },
+    {
+        "index": 31,
+        "titleTraining": "ReactJs - Introducción desde cero",
+        "titleTraining2": "ReactJs - Curso de Introducción desde cero y primeros pasos",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-reactjs-introduccion.jpeg"
+    },
+    {
+        "index": 32,
+        "titleTraining": "Fundamentos de Angular",
+        "titleTraining2": "Fundamentos de Angular",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-fundamentosangular.jpeg"
+    }
+    ,
+    {
+        "index": 33,
+        "titleTraining": "Pug desde cero",
+        "titleTraining2": "Pug desde cero",
+        "institute": "EDTeam",
+        "logoIntitute": "edteam.png",
+        "end": "2020",
+        "image": "edteam-pugdesdecero.jpg"
+    }
+    ,
+    {
+        "index": 34,
+        "titleTraining": "Fundamentos del desarrollo web: Tecnologías web",
+        "titleTraining2": "Fundamentos del desarrollo web: Tecnologías web",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-fundamentosdesarrollowebtecnologiasweb.jpeg"
+    }
+    ,
+    {
+        "index": 35,
+        "titleTraining": "Fundamentos esenciales de la programación",
+        "titleTraining2": "Fundamentos esenciales de la programación",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-fundamentosesencialesprogramacion.jpeg"
+    }
+    ,
+    {
+        "index": 36,
+        "titleTraining": "JavaScript esencial",
+        "titleTraining2": "JavaScript esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-javascriptesencial.jpeg"
+    }
+    ,
+    {
+        "index": 37,
+        "titleTraining": "JavaScript: Programación Orientada a Objetos",
+        "titleTraining2": "JavaScript: Programación Orientada a Objetos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-javaScriptprogramacionorientadaobjetos.jpeg"
+    }
+    ,
+    {
+        "index": 38,
+        "titleTraining": "Novedades JavaScript versión ES6",
+        "titleTraining2": "Novedades JavaScript versión ES6",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-novedadesjavascriptes6.jpeg"
+    }
+    ,
+    {
+        "index": 39,
+        "titleTraining": "JavaScript avanzado: Expresiones regulares",
+        "titleTraining2": "JavaScript avanzado: Expresiones regulares",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-javascriptavanzado-expresionesregulares.jpg"
+    }
+    ,
+    {
+        "index": 40,
+        "titleTraining": "JavaScript avanzado: Buenas prácticas",
+        "titleTraining2": "JavaScript avanzado: Buenas prácticas",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-javascriptavanzado-buenaspracticas.jpg"
+    },
+    {
+        "index": 41,
+        "titleTraining": "jQuery Esencial",
+        "titleTraining2": "jQuery Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-jqueryesencial.jpeg"
+    },
+    {
+        "index": 42,
+        "titleTraining": "D3.js avanzado: Visualización de datos en tiempo real",
+        "titleTraining2": "D3.js avanzado: Visualización de datos en tiempo real",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningd3jsavanzadovisualizaciondatostiemporeal.jpeg"
+    },
+    {
+        "index": 43,
+        "titleTraining": "Desarrollador Javascript",
+        "titleTraining2": "Conviértete en Desarrollador Javascript",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedinlearningdesarrolladorjavaScript.jpeg"
+    },
+    {
+        "index": 44,
+        "titleTraining": "Fundamentos Programación: Diseño orientado a objetos",
+        "titleTraining2": "Fundamentos de la programación: Diseño orientado a objetos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-fundamentosprogramaciondisenoorientadoobjetos.jpeg"
+    },
+    {
+        "index": 45,
+        "titleTraining": "HTML Esencial",
+        "titleTraining2": "HTML Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearninghtmlesencial.jpeg"
+    },
+    {
+        "index": 46,
+        "titleTraining": "HTML Avanzado",
+        "titleTraining2": "HTML Avanzado",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearninghtmlavanzado.jpeg"
+    },
+    {
+        "index": 47,
+        "titleTraining": "Aprende semántica web",
+        "titleTraining2": "Aprende semántica web",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssesencial.jpeg"
+    },
+    {
+        "index": 48,
+        "titleTraining": "CSS Esencial",
+        "titleTraining2": "CSS Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssconsassesencial.jpeg"
+    },
+    {
+        "index": 49,
+        "titleTraining": "CSS Avanzado",
+        "titleTraining2": "CSS Avanzado",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssavanzado.jpeg"
+    },
+    {
+        "index": 50,
+        "titleTraining": "CSS con SASS esencial",
+        "titleTraining2": "CSS con SASS esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssconsassesencial.jpeg"
+    },
+    {
+        "index": 51,
+        "titleTraining": "React Esencial",
+        "titleTraining2": "React Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningreactesencial.jpeg"
+    },
+    {
+        "index": 52,
+        "titleTraining": "Angular Esencial",
+        "titleTraining2": "Angular Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningangularesencial.jpeg"
+    },
+    {
+        "index": 53,
+        "titleTraining": "Typescript 2 Esencial",
+        "titleTraining2": "Typescript 2 Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningtypescript2esencial.jpeg"
+    },
+    {
+        "index": 54,
+        "titleTraining": "VueJS Esencial",
+        "titleTraining2": "VueJS Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningvuejsesencial.jpeg"
+    },
+    {
+        "index": 55,
+        "titleTraining": "Aprende SCRUM",
+        "titleTraining2": "Aprende SCRUM",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningaprendeSCRUM.jpeg"
+    },
+    {
+        "index": 56,
+        "titleTraining": "SCRUM: Roles",
+        "titleTraining2": "SCRUM: Roles",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningscrum roles.jpeg"
+    },
+    {
+        "index": 57,
+        "titleTraining": "Getting Things Done. Organízate con eficacia",
+        "titleTraining2": "Getting Things Done. Organízate con eficacia",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearninggettingthingsdone.jpeg"
+    },
+    {
+        "index": 58,
+        "titleTraining": "Fundamentos del teletrabajo",
+        "titleTraining2": "Fundamentos del teletrabajo",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningfundamentosdelteletrabajo.jpeg"
+    },
+    {
+        "index": 59,
+        "titleTraining": "Desarrollador web front-end",
+        "titleTraining2": "Conviértete en desarrollador web front-end",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningconvierteteendesarrolladorwebfrontend.jpeg"
+    },
+    {
+        "index": 60,
+        "titleTraining": "Fundamentos del desarrollo web: Full Stack o Front-end",
+        "titleTraining2": "Fundamentos del desarrollo web: Full Stack o Front-end",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningfundamentosdeldesarrollowebfullstackofrontend.jpeg"
+    },
+    {
+        "index": 61,
+        "titleTraining": "Desarrollo full-stack: Configuración de proyectos",
+        "titleTraining2": "Desarrollo full-stack práctico: Configuración profesional de proyectos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningdesarrollofullstackpracticoconfiguracionprofesionaldeproyectos.jpeg"
+    },
+    {
+        "index": 62,
+        "titleTraining": "GitHub para programadores",
+        "titleTraining2": "GitHub para programadores",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearninggitHubparaprogramadores.jpeg"
+    },
+    {
+        "index": 63,
+        "titleTraining": "Angular Avanzado",
+        "titleTraining2": "Angular Avanzado",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningangularavanzado.jpeg"
+    },
+    {
+        "index": 64,
+        "titleTraining": "Angular: Trucos",
+        "titleTraining2": "Angular: Trucos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningangulartrucos.jpeg"
+    },
+    {
+        "index": 65,
+        "titleTraining": "Desarrollador Angular",
+        "titleTraining2": "Conviértete en desarrollador Angular",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-convierteteendesarrolladorangular.jpeg"
+    },
+    {
+        "index": 66,
+        "titleTraining": "Angular práctico: Aplicación web para gestión deportiva",
+        "titleTraining2": "Angular práctico: Desarrolla una aplicación web para gestión deportiva",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningangularpracticodesarrollaunaaplicacionwebparagestiondeportiva.jpeg"
+    },
+    {
+        "index": 67,
+        "titleTraining": "Fundamentos de la programación: Bases de datos",
+        "titleTraining2": "Fundamentos de la programación: Bases de datos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningfundamentosdelaprogramacionbasesdedatos.jpeg"
+    },
+    {
+        "index": 68,
+        "titleTraining": "Aprende diseño de base de datos relacionales",
+        "titleTraining2": "Aprende diseño de base de datos relacionales",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-aprendedisenodebasededatosrelacionales.jpeg"
+    },
+    {
+        "index": 69,
+        "titleTraining": "SQL esencial",
+        "titleTraining2": "SQL esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningsqlesencial.jpeg"
+    },
+    {
+        "index": 70,
+        "titleTraining": "SQL Server 2016: Administración y configuración",
+        "titleTraining2": "SQL Server 2016: Administración y configuración",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningsqlserver2016administracionyconfiguracion.jpeg"
+    },
+    {
+        "index": 71,
+        "titleTraining": "MySQL esencial",
+        "titleTraining2": "MySQL esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningmysqlesencial.jpeg"
+    },
+    {
+        "index": 72,
+        "titleTraining": "Laravel esencial",
+        "titleTraining2": "Laravel esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearninglaravelesencial.jpeg"
+    },
+    {
+        "index": 73,
+        "titleTraining": "Aprende Visual Studio Code",
+        "titleTraining2": "Aprende Visual Studio Code",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningaprendephp.jpeg"
+    },
+    {
+        "index": 74,
+        "titleTraining": "Aprende PHP",
+        "titleTraining2": "Aprende PHP",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningaprendephp.jpeg"
+    },
+    {
+        "index": 75,
+        "titleTraining": "PHP avanzado: Herramientas profesionales",
+        "titleTraining2": "PHP avanzado: Herramientas profesionales",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningphpavanzadoherramientasprofesionales.jpeg"
+    },
+    {
+        "index": 76,
+        "titleTraining": "PHP orientado a objetos",
+        "titleTraining2": "PHP orientado a objetos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningphporientadoaobjetos.jpeg"
+    },
+    {
+        "index": 77,
+        "titleTraining": "Novedades PHP 7",
+        "titleTraining2": "Novedades PHP 7",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningnovedadesphp7.jpeg"
+    },
+    {
+        "index": 78,
+        "titleTraining": "PHP: CodeIgniter",
+        "titleTraining2": "PHP: CodeIgniter",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningphpcodeIgniter.jpeg"
+    },
+    {
+        "index": 79,
+        "titleTraining": "Aprende JSON",
+        "titleTraining2": "Aprende JSON",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-aprendejson.jpeg"
+    },
+    {
+        "index": 80,
+        "titleTraining": "NodeJS Esencial",
+        "titleTraining2": "NodeJS Esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningnodejsesencial.jpeg"
+    },
+    {
+        "index": 81,
+        "titleTraining": "NodeJS práctico: Sitio web",
+        "titleTraining2": "NodeJS práctico: Sitio web",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningnodejspracticositioweb.jpeg"
+    },
+    {
+        "index": 82,
+        "titleTraining": "JavaScript Avanzado 1",
+        "titleTraining2": "JavaScript Avanzado 1",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningjavaScriptavanzado1.jpeg"
+    },
+    {
+        "index": 83,
+        "titleTraining": "Desarrollo web front-end esencial",
+        "titleTraining2": "Desarrollo web front-end esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningdesarrollowebfrontendesencial.jpeg"
+    },
+    {
+        "index": 84,
+        "titleTraining": "Aprende MongoDB: Bases de datos NoSQL",
+        "titleTraining2": "Aprende MongoDB: Bases de datos NoSQL",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-aprendemongodb.jpeg"
+    },
+    {
+        "index": 85,
+        "titleTraining": "Creación documentos PDF en PHP",
+        "titleTraining2": "Creación documentos PDF en PHP",
+        "institute": "Udemy",
+        "logoIntitute": "udemy.png",
+        "end": "2020",
+        "image": "udemy-creaciondocumentospdfenphp.jpeg"
+    },
+    {
+        "index": 86,
+        "titleTraining": "Diseño de interfaz (UI) esencial",
+        "titleTraining2": "Diseño de interfaz (UI) esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearning-disenodeinterfazuiesencial.jpeg"
+    },
+    {
+        "index": 87,
+        "titleTraining": "PHP: Seguridad",
+        "titleTraining2": "PHP: Seguridad",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedinlearningphpseguridad.jpeg"
+    },
+    {
+        "index": 88,
+        "titleTraining": "PHP: Gestión de datos",
+        "titleTraining2": "PHP: Gestión de datos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedinlearningphpysqlestiondedatos.jpeg"
+    },
+    {
+        "index": 89,
+        "titleTraining": "Pensamiento Computacional",
+        "titleTraining2": "Pensamiento Computacional",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningpensamientocomputacional.jpeg"
+    },
+    {
+        "index": 90,
+        "titleTraining": "PHP: Frameworks MVC para aplicaciones web",
+        "titleTraining2": "PHP: Frameworks MVC para aplicaciones web",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningphpframeworksmvcparaaplicacionesweb.jpeg"
+    },
+    {
+        "index": 91,
+        "titleTraining": "Desarrollador PHP",
+        "titleTraining2": "Conviértete en desarrollador PHP",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedinlearningconvierteteendesarrolladorphp.jpeg"
+    },
+    {
+        "index": 92,
+        "titleTraining": "CSS: 50 trucos",
+        "titleTraining2": "CSS: 50 trucos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcss50trucos.jpeg"
+    },
+    {
+        "index": 93,
+        "titleTraining": "CSS: Degradados",
+        "titleTraining2": "CSS: Degradados",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssdegradados.jpeg"
+    },
+    {
+        "index": 94,
+        "titleTraining": "CSS: Diseño web responsive",
+        "titleTraining2": "CSS: Diseño web responsive",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcsscisenowebresponsive.jpeg"
+    },
+    {
+        "index": 95,
+        "titleTraining": "CSS avanzado: 12 trucos",
+        "titleTraining2": "CSS avanzado: 12 trucos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningcssavanzado12trucos.jpeg"
+    },
+    {
+        "index": 96,
+        "titleTraining": "Domina CSS",
+        "titleTraining2": "Domina CSS",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningdominacss.jpeg"
+    },
+    {
+        "index": 97,
+        "titleTraining": "Aplicación de Metodologías Devops",
+        "titleTraining2": "Aplicación de Metodologías Devops para el Desarrollo de Software",
+        "institute": "University Everis - Sena",
+        "logoIntitute": "senaeveris.png",
+        "end": "2020",
+        "image": "senaeverisaplicacióndemetodologíasdevopsparaeldesarrollodecoftware.jpeg"
+    },
+    {
+        "index": 98,
+        "titleTraining": "Desarrollos Web y de Aplicaciones Móviles",
+        "titleTraining2": "Desarrollos Web y de Aplicaciones Móviles en entornos Front-end",
+        "institute": "University Everis - Sena",
+        "logoIntitute": "senaeveris.png",
+        "end": "2020",
+        "image": "senaeverisdesarrollowebydeaplicacionesmovilesenentornosfrontend.jpeg"
+    },
+    {
+        "index": 99,
+        "titleTraining": "Fundamentos de los CMS",
+        "titleTraining2": "Fundamentos de los CMS",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningfundamentosdeloscms.jpeg"
+    },
+    {
+        "index": 100,
+        "titleTraining": "WordPress 4 esencial",
+        "titleTraining2": "WordPress 4 esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningwordPress4esencial.jpeg"
+    },
+    {
+        "index": 101,
+        "titleTraining": "WordPress 5 esencial",
+        "titleTraining2": "WordPress 5 esencial",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningwordPress5esencial.jpeg"
+    },
+    {
+        "index": 102,
+        "titleTraining": "WordPress Práctico: Creación Básica de Temas",
+        "titleTraining2": "WordPress Práctico: Creación Básica de Temas",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningwordPresspracticocreacionbasicadetemas.jpeg"
+    },
+    {
+        "index": 103,
+        "titleTraining": "WordPress Práctico: Creación Avanzada de Temas",
+        "titleTraining2": "WordPress Práctico: Creación Avanzada de Temas",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningwordPresspracticocreacionavanzadadetemas.jpeg"
+    },
+    {
+        "index": 104,
+        "titleTraining": "Fundamentos del comercio electronico",
+        "titleTraining2": "Fundamentos del comercio electronico WooCommerce en WordPress",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningfundamentosdelcomercioelectronicowoocommerceenwordPress.jpeg"
+    },
+    {
+        "index": 105,
+        "titleTraining": "WordPress Catalogo con WooCommerce",
+        "titleTraining2": "WordPress Catalogo con WooCommerce",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2020",
+        "image": "linkedInlearningwordpresscatalogoconwoocommerce.jpeg"
+    },
+    {
+        "index": 106,
+        "titleTraining": "jQuery para Diseñadores",
+        "titleTraining2": "jQuery para Diseñadores",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningjqueryparadisenadores.jpeg"
+    },
+    {
+        "index": 107,
+        "titleTraining": "WordPress con Sass y Gulp",
+        "titleTraining2": "WordPress con Sass y Gulp",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningwordpressconsassygulp.jpeg"
+    },
+    {
+        "index": 108,
+        "titleTraining": "WordPress: Seguridad",
+        "titleTraining2": "WordPress: Seguridad",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningwordpressseguridad.jpeg"
+    },
+    {
+        "index": 109,
+        "titleTraining": "WordPress práctico: SEO",
+        "titleTraining2": "WordPress práctico: SEO",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningwordpressavanzadoseo.jpeg"
+    },
+    {
+        "index": 110,
+        "titleTraining": "WordPress práctico: Sitios Multilingües",
+        "titleTraining2": "WordPress práctico: Sitios Multilingües",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningwordpresspracticositiosmultilingues.jpeg"
+    },
+    {
+        "index": 111,
+        "titleTraining": "WordPress: 25 plugins imprescindibles",
+        "titleTraining2": "WordPress: 25 plugins imprescindibles",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningwordpress25pluginsimprescindibles.jpeg"
+    },
+    {
+        "index": 112,
+        "titleTraining": "Desarrollador WordPress",
+        "titleTraining2": "Conviértete en desarrollador WordPress",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningconvierteteendesarrolladorwordpress.jpeg"
+    },
+    {
+        "index": 113,
+        "titleTraining": "HTML5 práctico: Scroll y presentación de contenidos",
+        "titleTraining2": "HTML5 práctico: Scroll y presentación de contenidos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearninghtml5practicoscrollypresentaciondecontenidos.jpeg"
+    },
+    {
+        "index": 114,
+        "titleTraining": "HTML5 práctico: Visualización de datos",
+        "titleTraining2": "HTML5 práctico: Visualización de datos",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearninghtml5practicovisualizaciondedatos.jpeg"
+    },
+    {
+        "index": 115,
+        "titleTraining": "HTML5 práctico: Agenda",
+        "titleTraining2": "HTML5 práctico: Agenda",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearninghtml5practicoagenda.jpeg"
+    },
+    {
+        "index": 116,
+        "titleTraining": "HTML5: Animación e interactividad con canvas",
+        "titleTraining2": "HTML5: Animación e interactividad con canvas",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearninghtml5animacioneinteractividadconcanvas.jpeg"
+    },
+    {
+        "index": 117,
+        "titleTraining": "HTML5 y CSS3 práctico: Formularios de login y registro",
+        "titleTraining2": "HTML5 y CSS3 práctico: Formularios de login y registro",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearninghtml5ycss3practicoformulariosdeloginyregistro.jpeg"
+    },
+    {
+        "index": 118,
+        "titleTraining": "CSS3: Animación, transformaciones y transiciones",
+        "titleTraining2": "CSS3: Animación, transformaciones y transiciones",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningCSS3animaciontransformacionesytransiciones.jpeg"
+    },
+    {
+        "index": 119,
+        "titleTraining": "CSS práctico: Maquetación de landing page",
+        "titleTraining2": "CSS práctico: Maquetación de landing page",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningCSSpracticomaquetaciondelandingpage.jpeg"
+    },
+    {
+        "index": 120,
+        "titleTraining": "Amplía tus conocimientos como desarrollador front-end",
+        "titleTraining2": "Amplía tus conocimientos como desarrollador front-end: HTML y CSS",
+        "institute": "Linkedin Learning",
+        "logoIntitute": "linkedinlearning.png",
+        "end": "2021",
+        "image": "linkedInlearningampliatusconocimientoscomodesarrolladorwebfrontendhtmlycss.jpeg"
+    }
+]

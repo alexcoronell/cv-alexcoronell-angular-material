@@ -1,5 +1,22 @@
 <div class="content">
    <div class="titlePage">
-    <h1>Formación</h1>
+    <h1>{{titlePage}}</h1>
    </div>
+   <main class="mainContent trainingContent">
+
+      <mat-card class="trainingItem" *ngFor="let item of trainingData">
+         <mat-card-header class="trainingItem__Header">
+            <div mat-card-avatar class="instituteAvatar">
+               <img [src]='"../../../assets/images/institutes-logos/"+item.logoIntitute' [alt]='item.institute'>
+           </div>
+           <mat-card-title class="trainingItem__Header__titleTraining">{{item.titleTraining}}</mat-card-title>
+           <mat-card-subtitle class="trainingItem__Header__subtitleTraining">{{item.institute}}</mat-card-subtitle>
+         </mat-card-header>
+         <img mat-card-image [src]='"../../../assets/images/documents/"+item.image' [alt]='item.titleTraining2' [title]='item.titleTraining2'>
+         <mat-card-content>
+            <p>Terminado - {{item.end}}</p>
+         </mat-card-content>
+       </mat-card>
+       
+   </main>
 </div>

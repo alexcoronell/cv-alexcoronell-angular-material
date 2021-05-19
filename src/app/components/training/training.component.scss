@@ -56,6 +56,9 @@
             display: flex !important;
             flex-direction: column;
             align-items: flex-start;
+            justify-content: end;
+            flex-grow: 1 !important;
+            min-height: 420px;
             &__header {
                 flex: 1 1 auto;
             }
